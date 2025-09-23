@@ -1,0 +1,17 @@
+{
+  "name": "Payme.sol Basic POS",
+  "short_name": "payme.sol basic",
+  "description": "Solana POS System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#ab9ff2",
+  "scope": "/",
+  "icons": [
+   {
+      "src": "icons/paymesol-500x500.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      }
+    ]
+  }
